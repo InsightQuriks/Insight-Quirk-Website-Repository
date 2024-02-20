@@ -12,7 +12,7 @@ Welcome to the coolest place on the internet! 🌐 Our website repository is not
 
 Meet the superheroes behind the scenes:
 
-- [@Shashankafre](https://github.com/ShashankAfre) - The Bug Slayer 🐞
+- [@Shashankafre](https://github.com/ShashankAfre) - Bob the builder 🐞
 - [@HimanshuBundela](https://github.com/HimanshuBundela) - The Design Wizard 🎨
 - [@Abhisheknikam](https://github.com/abhisheknikam) - The Git Guru 🧙‍♂️
 
