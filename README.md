@@ -15,6 +15,7 @@ Meet the superheroes behind the scenes:
 - [@Shashankafre](https://github.com/ShashankAfre) - The Bug Slayer 🐞
 - [@HimanshuBundela](https://github.com/HimanshuBundela) - The Design Wizard 🎨
 - [@Abhisheknikam](https://github.com/abhisheknikam) - The Git Guru 🧙‍♂️
+- [@nishantb](https://github.com/nishantbhadke) - Brainstorming Wizard
 
 ## 🚨 How to Contribute?
 
